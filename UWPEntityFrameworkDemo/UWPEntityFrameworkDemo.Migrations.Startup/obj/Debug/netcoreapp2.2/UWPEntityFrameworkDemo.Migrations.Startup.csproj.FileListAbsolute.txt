@@ -1,0 +1,14 @@
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.deps.json
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.runtimeconfig.json
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.runtimeconfig.dev.json
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.dll
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.csprojAssemblyReference.cache
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.csproj.CoreCompileInputs.cache
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.AssemblyInfoInputs.cache
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.AssemblyInfo.cs
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.pdb
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.dll
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.pdb
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Models.dll
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\bin\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Models.pdb
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Migrations.Startup\obj\Debug\netcoreapp2.2\UWPEntityFrameworkDemo.Migrations.Startup.csproj.CopyComplete

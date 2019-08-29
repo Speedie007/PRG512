@@ -1,0 +1,1 @@
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.csproj;x86

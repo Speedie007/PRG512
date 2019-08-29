@@ -1,0 +1,9 @@
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\bin\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.deps.json
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\bin\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.dll
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\obj\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.csprojAssemblyReference.cache
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\obj\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\obj\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.AssemblyInfoInputs.cache
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\obj\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.AssemblyInfo.cs
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\bin\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.pdb
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\obj\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.dll
+C:\Users\Brendan Wood\source\repos\UWPEntityFrameworkDemo\UWPEntityFrameworkDemo.Models\obj\Debug\netstandard2.0\UWPEntityFrameworkDemo.Models.pdb
